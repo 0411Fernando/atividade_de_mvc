@@ -1,0 +1,4 @@
+{
+    "dotnet.defaultSolution": "LHPet.sln",
+    "git.ignoreLimitWarning": true
+}
